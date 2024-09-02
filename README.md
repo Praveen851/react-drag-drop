@@ -1,4 +1,4 @@
-Prod url: [https://66d5c4210613fb19b42b054a--react-drag-drop-dnd.netlify.app/]
+Prod url: [https://react-drag-drop-dnd.netlify.app/]
 
 # Getting Started with Create React App
 
