@@ -1,3 +1,5 @@
+Prod url: [https://66d5c4210613fb19b42b054a--cute-otter-5286b9.netlify.app/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,6 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-https://66d5c4210613fb19b42b054a--cute-otter-5286b9.netlify.app/
